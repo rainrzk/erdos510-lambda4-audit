@@ -1,4 +1,3 @@
-<!-- DRAFT: rewrite in your own words before publishing. Every claim below is backed by AUDIT_NOTES.md and the scripts. -->
 # Independent audit of the λ(4) proof (Erdős Problem #510)
 
 [teorth/erdosproblems#392](https://github.com/teorth/erdosproblems/issues/392) announces a machine-derived proof, produced by the [cert-machine](https://github.com/carlostoledo1891/cert-machine) engine, of a conjecture of Mercer (INTEGERS 19, 2019). The claim is that among all sets of four positive integers, {1,2,3,4} has the shallowest cosine-sum minimum:
